@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio14-js",
+  "version": "1.0.0",
+  "description": "Crear app node con express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "Juan Carlos Fernández",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
